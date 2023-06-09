@@ -1,0 +1,6 @@
+@media (max-width:1500px) {
+    .painel {
+        width: 700px;
+        gap: 0;
+    }
+}

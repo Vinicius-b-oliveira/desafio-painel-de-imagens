@@ -17,11 +17,15 @@ main {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    gap: 20px;
 }
 
 .painel li {
     position: relative;
-    margin-left: 20px;
+}
+
+.painel li img {
+    width: 100%;
 }
 
 .painel li .texto {
