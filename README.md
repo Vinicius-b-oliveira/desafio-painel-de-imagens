@@ -1,4 +1,4 @@
-# Exercício Menu com Flex Box do curso DevQuest
+# Exercício Painel de Imagens do curso DevQuest
 
 ## Sumário
 
